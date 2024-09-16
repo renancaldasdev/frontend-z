@@ -1,7 +1,6 @@
+import { Logo } from "@/components/ui/logo";
+import { redirect } from "next/navigation";
+
 export default function Page() {
-  return (
-    <div>
-      <p>teste</p>
-    </div>
-  );
+  redirect("home");
 }
