@@ -1,4 +1,4 @@
-import { User } from "../app/types/user";
+import {User} from "../types/user";
 
 export const user: User = {
     slug: 'renan',

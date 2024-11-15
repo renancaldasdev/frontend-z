@@ -1,5 +1,5 @@
 import Link from "next/link";
-import {user} from "@/data/user";
+import {user} from "@/app/data/user";
 
 export const NavMyProfile = () => {
     return (
